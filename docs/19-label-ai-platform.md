@@ -59,6 +59,7 @@ Rincian kebijakannya:
 **Label membuktikan:** platform atau pengguna menyatakan bahwa konten atau persona itu melibatkan AI. Itu adalah pernyataan resmi di dalam platform — jauh lebih kuat daripada klaim akun itu sendiri.
 
 **Label tidak membuktikan:**
+
 - Bahwa **seluruh** isi akun dibuat AI. Label konten berlaku per unggahan.
 - Bahwa akun itu **dijalankan** otomatis. Label persona menandai sosoknya, bukan cara akunnya dioperasikan.
 - Bahwa akun itu **berniat** menyesatkan.
