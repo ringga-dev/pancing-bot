@@ -29,6 +29,7 @@ Gunakan dokumen terpisah sesuai informasi yang ingin diketahui. Ajukan satu pert
 6. [Informasi salah dan perilaku koordinasi](18-informasi-salah-dan-koordinasi.md)
 7. [Label AI di level platform](19-label-ai-platform.md)
 8. [Penelitian dan indikator deteksi](20-penelitian-dan-indikator.md)
+9. [Pertanyaan pengungkap persona](21-pertanyaan-pengungkap-persona.md)
 
 ## Alur setelah mendapat jawaban
 

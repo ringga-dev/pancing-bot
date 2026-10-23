@@ -15,6 +15,7 @@ Versi di sini merujuk pada **isi dokumen**, bukan perangkat lunak, karena reposi
 - `docs/18-informasi-salah-dan-koordinasi.md` — cara memeriksa informasi salah dan perilaku koordinasi, termasuk delapan sinyal K-1 sampai K-8.
 - `docs/19-label-ai-platform.md` — label AI yang dipasang platform (AI Info, AI-generated profile), cara memeriksanya, dan batasnya.
 - `docs/20-penelitian-dan-indikator.md` — temuan riset dan indikator lapangan, termasuk batas kemampuan manusia membedakan akun AI.
+- `docs/21-pertanyaan-pengungkap-persona.md` — bank pertanyaan untuk menguji apakah sebuah persona hidup di dunia nyata, beserta aturan mainnya.
 
 ### Diubah
 

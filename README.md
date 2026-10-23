@@ -16,6 +16,7 @@ Panduan dan prompt untuk meminta transparansi dari akun atau layanan di media so
 | Istilah teknis yang dipakai | [Glosarium](docs/10-glosarium.md) |
 | Diduga ada narasi yang sengaja menyebar atau diarahkan | [Informasi Salah dan Koordinasi](docs/18-informasi-salah-dan-koordinasi.md) |
 | Cek tanda AI dari platformnya sendiri | [Label AI di Platform](docs/19-label-ai-platform.md) |
+| Uji akun yang berpura-pura jadi manusia | [Pertanyaan Pengungkap Persona](docs/21-pertanyaan-pengungkap-persona.md) |
 
 ## Situs dokumentasi
 

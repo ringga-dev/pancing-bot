@@ -41,6 +41,7 @@ Repositori ini berisi **panduan dan prompt** untuk meminta transparansi dari aku
 - Diduga ada akun yang sengaja menyebar informasi salah atau mengarahkan opini? → [Informasi Salah dan Perilaku Koordinasi](18-informasi-salah-dan-koordinasi.md)
 - Cari tanda AI yang dipasang platformnya sendiri? → [Label AI di Level Platform](19-label-ai-platform.md)
 - Ingin tahu dasar riset di balik cara mendeteksi? → [Penelitian dan Indikator](20-penelitian-dan-indikator.md)
+- Punya akun yang diduga berpura-pura jadi manusia? → [Pertanyaan Pengungkap Persona](21-pertanyaan-pengungkap-persona.md)
 
 ## Format catatan yang disarankan
 
@@ -85,6 +86,7 @@ Untuk membedakan apa yang benar-benar bisa dibuktikan dan apa yang hanya bisa di
 | [18](18-informasi-salah-dan-koordinasi.md) | Informasi salah dan koordinasi |
 | [19](19-label-ai-platform.md) | Label AI di level platform |
 | [20](20-penelitian-dan-indikator.md) | Penelitian dan indikator |
+| [21](21-pertanyaan-pengungkap-persona.md) | Pertanyaan pengungkap persona |
 | [Template](perkakas/README.md) | Berkas siap isi |
 
 ## Lisensi
