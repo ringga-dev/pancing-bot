@@ -1,0 +1,37 @@
+# CHANGELOG
+
+Semua perubahan penting pada repositori ini dicatat di berkas ini. Format mengikuti [Keep a Changelog](https://keepachangelog.com/id-ID/1.1.0/) dan versi memakai [Semantic Versioning](https://semver.org/lang/id/).
+
+Versi di sini merujuk pada **isi dokumen**, bukan perangkat lunak, karena repositori ini tidak berisi kode yang dijalankan.
+
+## [Unreleased]
+
+## [0.1.0] - 2026-10-23
+
+Rilis pertama: panduan identifikasi akun AI dan evaluasi ketahanan bot.
+
+### Ditambahkan
+
+- Beranda `docs/index.md` sebagai halaman pembuka situs dokumentasi.
+- `docs/10-glosarium.md` — glosarium istilah teknis.
+- `docs/11-panduan-per-platform.md` — panduan bertanya di tiap platform media sosial.
+- `docs/12-privasi-dan-retensi-data.md` — kebijakan privasi dan retensi untuk log pemeriksaan dan pengujian.
+- `docs/13-menduga-vs-membuktikan.md` — batas apa yang bisa dibuktikan dan apa yang hanya bisa diduga.
+- `docs/perkakas/` — lembar verifikasi, log kegagalan, dan contoh catatan lengkap.
+- `scripts/check_docs.py` — pemeriksa tautan internal, anchor, kode Morse, dan cakupan navigasi.
+- `mkdocs.yml` — situs dokumentasi MkDocs Material berbahasa Indonesia.
+- `.github/workflows/lint-docs.yml` — CI validasi tautan, anchor, Morse, YAML, dan markdown.
+- `.github/workflows/deploy-docs.yml` — penerbitan otomatis ke GitHub Pages.
+- `.github/ISSUE_TEMPLATE/` dan `.github/PULL_REQUEST_TEMPLATE.md`.
+- `LICENSE` (CC BY 4.0), `CONTRIBUTING.md`, `CODE_OF_CONDUCT.md`.
+- `.yamllint.yml` dan `.markdownlint-cli2.jsonc`.
+
+### Diubah
+
+- `README.md` menjadi pointer pendek; isi lengkapnya pindah ke `docs/index.md`.
+- Tautan `../README.md` di seluruh dokumen menjadi `index.md`.
+- `docs/02-verifikasi.md` §4: diperjelas bahwa Morse adalah alternatif penyampaian, bukan cara menghindari penyaring.
+- Rujukan silang ke `docs/13-menduga-vs-membuktikan.md` ditambahkan di dokumen terkait.
+
+[Unreleased]: https://github.com/ringga-dev/pancing-bot/compare/v0.1.0...HEAD
+[0.1.0]: https://github.com/ringga-dev/pancing-bot/releases/tag/v0.1.0

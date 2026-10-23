@@ -1,0 +1,27 @@
+# LISENSI
+
+Kecuali dinyatakan lain, seluruh isi repositori ini — termasuk prompt, checklist,
+lembar kerja, dan dokumen di bawah `docs/` — berlisensi
+**Creative Commons Attribution 4.0 International (CC BY 4.0)**.
+
+Teks lisensi lengkap: <https://creativecommons.org/licenses/by/4.0/legalcode>
+Ringkasan singkat: <https://creativecommons.org/licenses/by/4.0/deed.id>
+
+## Yang Anda boleh lakukan
+
+- **Membagikan** — menyalin dan menyebarluaskan materi ini dalam medium atau format apa pun.
+- ** Mengadaptasi** — menggubah, mengubah bentuk, dan membangun di atas materi ini, termasuk untuk keperluan komersial.
+
+## Dengan ketentuan
+
+- **Atribusi** — Anda wajib memberi kredit yang sesuai, menyertakan tautan ke lisensi, dan menyatakan jika ada perubahan yang dibuat. Anda boleh melakukannya dengan cara yang wajar, tetapi tidak boleh memberi kesan bahwa pemberi lisensi mendukung Anda atau penggunaan Anda.
+- **Tanpa batasan tambahan** — Anda tidak boleh menerapkan ketentuan hukum atau langkah teknologi yang secara hukum membatasi orang lain dari melakukan hal-hal yang diizinkan lisensi ini.
+
+## Yang tidak termasuk
+
+- Berkas di bawah `.venv/`, `site/`, dan berkas turunan pembangunan lainnya bukan bagian dari materi berlisensi.
+- Nama dan identitas pihak lain yang disebut dalam contoh dokumen tetap menjadi milik masing-masing pihak. Contoh-contoh yang dipakai di dokumen ini bersifat fiktif dan tidak ditujukan kepada akun mana pun.
+
+## Ketersediaan
+
+Pemberi lisensi tidak dapat mencabut lisensi ini selama Anda mematuhi ketentuannya. Lisensi ini berlaku selama masa berlaku hak cipta atas materinya.

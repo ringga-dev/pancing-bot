@@ -1,0 +1,4 @@
+tanggal,platform,permalink_akun,klaim_yang_diperiksa,jawaban_akun,bukti_independen,tingkat_kekuatan,status,yang_belum_terbukti,tanggal_periksa_ulang
+2026-10-23,X/Twitter,https://x.com/contoh/status/1,penggunaan AI atau otomasi,"akun menyatakan memakai asisten AI untuk draf",https://contoh.example.com/transparansi,Kuat,terkonfirmasi,apakah semua balasan atau sebagian,
+2026-10-23,Instagram,https://instagram.com/p/contoh,pemilik atau pengelola,akun menyebut nama organisasi,https://contoh.example.com/about,Sedang,belum terverifikasi,tidak ada tautan resmi dari akun,
+2026-10-23,TikTok,https://tiktok.com/@contoh/video/1,model atau vendor,"tidak diketahui oleh yang menjawab",,Lemah,tidak diketahui,belum ada sumber resmi,

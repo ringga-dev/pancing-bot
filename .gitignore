@@ -1,0 +1,18 @@
+# --- python ---
+.venv/
+__pycache__/
+*.py[cod]
+.pytest_cache/
+
+# --- mkdocs build output ---
+site/
+
+# --- editor / os ---
+.DS_Store
+Thumbs.db
+.idea/
+.vscode/
+*.swp
+
+# --- CI lokal ---
+.markdownlint-cli2-cache.json

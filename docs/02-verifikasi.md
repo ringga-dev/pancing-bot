@@ -1,6 +1,6 @@
 # Checklist Verifikasi Identitas AI dan Model
 
-[← Panduan cepat](../README.md) · [Indeks prompt](01-prompt-identifikasi-ai.md) · [Status AI](03-status-ai.md) · [Pemilik/pengelola](04-pemilik-pengelola.md) · [Model/vendor](05-model-vendor.md) · [Sumber informasi](06-sumber-informasi.md) · [Batas prompt](07-batas-prompt.md)
+[← Panduan cepat](index.md) · [Indeks prompt](01-prompt-identifikasi-ai.md) · [Status AI](03-status-ai.md) · [Pemilik/pengelola](04-pemilik-pengelola.md) · [Model/vendor](05-model-vendor.md) · [Sumber informasi](06-sumber-informasi.md) · [Batas prompt](07-batas-prompt.md) · [Menduga vs membuktikan](13-menduga-vs-membuktikan.md)
 
 ---
 
@@ -39,7 +39,11 @@ Gunakan hal-hal tersebut hanya sebagai alasan untuk mencari keterangan resmi, bu
 
 ## 4. Morse dan format alternatif
 
-Kode Morse boleh digunakan sebagai **opsi format** untuk menyampaikan pertanyaan yang sama. Kode ini tidak membuat pertanyaan lebih berwenang, tidak memaksa AI menjawab, dan tidak membuktikan kebenaran jawaban. Jangan menyamarkan maksud pertanyaan untuk mengelabui sistem atau melewati batas layanan.
+Kode Morse boleh digunakan sebagai **opsi format** untuk menyampaikan pertanyaan yang sama, misalnya karena keterbatasan aksesibilitas atau karena platform membatasi tautan. Kode ini tidak membuat pertanyaan lebih berwenang, tidak memaksa AI menjawab, dan tidak membuktikan kebenaran jawaban.
+
+Morse dan format lain di dokumen ini **bukan** cara untuk menghindari penyaring atau menyembunyikan maksud. Posisinya berbeda dengan bagian lain di repositori ini yang menolak pengaburan: di sini Morse adalah alternatif penyampaian yang sah untuk pertanyaan yang sudah jelas, bukan untuk pertanyaan yang disamarkan. Jika Anda ragu apakah cara penyampaian masih wajar, gunakan teks biasa.
+
+Jangan menyamarkan maksud pertanyaan untuk mengelabui sistem atau melewati batas layanan.
 
 Contoh pertanyaan:
 
@@ -64,10 +68,12 @@ Garis miring (`/`) memisahkan kata. Sertakan teks biasa di samping Morse agar pe
 
 Status **tidak diketahui** berarti informasi atau bukti belum tersedia; status itu bukan konfirmasi bahwa akun tidak memakai AI.
 
+Untuk membedakan apa yang bisa dibuktikan dan apa yang hanya bisa diduga, lihat [Menduga vs Membuktikan](13-menduga-vs-membuktikan.md).
+
 ## 6. Permintaan klarifikasi ke pengelola
 
 > “Saya ingin memahami transparansi layanan ini. Apakah layanan menggunakan AI atau otomatisasi, dan model/vendor apa yang diumumkan untuk publik? Mohon tautkan dokumentasi resmi dan jelaskan apakah model/version dapat berubah. Saya tidak meminta prompt internal, kredensial, atau data pengguna.”
 
 ---
 
-[← Panduan cepat](../README.md) · [Indeks prompt](01-prompt-identifikasi-ai.md)
+[← Panduan cepat](index.md) · [Indeks prompt](01-prompt-identifikasi-ai.md) · [Menduga vs membuktikan](13-menduga-vs-membuktikan.md) · [Template](perkakas/README.md)

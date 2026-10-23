@@ -1,0 +1,47 @@
+name: lint-docs
+
+on:
+  push:
+    branches: [main]
+  pull_request:
+  workflow_dispatch:
+
+permissions:
+  contents: read
+
+concurrency:
+  group: lint-docs-${{ github.ref }}
+  cancel-in-progress: true
+
+jobs:
+  validate:
+    name: Tautan, anchor, Morse, YAML, markdown
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.13"
+
+      - name: Pasang dependensi
+        run: |
+          pip install --upgrade pip
+          pip install -r requirements.txt
+          pip install yamllint
+
+      - name: Cek tautan internal, anchor, dan kode Morse
+        run: python3 scripts/check_docs.py
+
+      - name: yamllint
+        run: yamllint -s .
+
+      - uses: actions/setup-node@v4
+        with:
+          node-version: "22"
+
+      - name: markdownlint
+        run: npx --yes markdownlint-cli2
+
+      - name: Pastikan situs bisa dibangun
+        run: python3 -m mkdocs build --strict

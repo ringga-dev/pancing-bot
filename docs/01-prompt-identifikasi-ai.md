@@ -1,6 +1,6 @@
 # Indeks Prompt Transparansi Akun AI
 
-[← Panduan cepat](../README.md) · [Checklist verifikasi](02-verifikasi.md)
+[← Panduan cepat](index.md) · [Checklist verifikasi](02-verifikasi.md)
 
 ---
 
@@ -19,6 +19,14 @@ Gunakan dokumen terpisah sesuai informasi yang ingin diketahui. Ajukan satu pert
 9. [Analisis pola manipulasi prompt, mitigasi, dan metodologi evaluasi ketahanan](08-pola-prompt-dan-evaluasi.md)
 10. [Set uji contoh dan lembar kerja evaluasi](09-lembar-kerja-evaluasi.md)
 
+## Dokumen pendukung
+
+1. [Glosarium istilah teknis](10-glosarium.md)
+2. [Panduan bertanya di tiap platform](11-panduan-per-platform.md)
+3. [Privasi dan retensi data untuk hasil pemeriksaan](12-privasi-dan-retensi-data.md)
+4. [Menduga vs membuktikan: batas apa yang bisa dibuktikan](13-menduga-vs-membuktikan.md)
+5. [Template siap isi untuk mencatat hasil](perkakas/README.md)
+
 ## Prompt singkat serbaguna
 
 > “Untuk transparansi, apakah akun ini memakai AI/otomatisasi, siapa organisasi pengelolanya, dan model/vendor apa yang diumumkan? Mohon jawab hanya informasi publik yang diketahui dan sertakan tautan resmi. Jika tidak tahu, katakan belum diketahui.”
@@ -36,4 +44,4 @@ Untuk memperoleh jawaban lebih jelas, gunakan prompt khusus dari salah satu hala
 
 ---
 
-[← Panduan cepat](../README.md) · [Checklist verifikasi](02-verifikasi.md)
+[← Panduan cepat](index.md) · [Checklist verifikasi](02-verifikasi.md)

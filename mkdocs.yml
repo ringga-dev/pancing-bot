@@ -1,0 +1,79 @@
+site_name: Panduan Identifikasi Akun AI
+site_description: >-
+  Panduan dan prompt untuk meminta transparansi dari akun atau layanan di media
+  sosial — apakah memakai AI, siapa pengelolanya, model/vendor apa yang
+  diumumkan, dan cara memeriksa jawabannya.
+repo_name: ringga-dev/pancing-bot
+repo_url: https://github.com/ringga-dev/pancing-bot
+
+docs_dir: docs
+site_dir: site
+
+theme:
+  name: material
+  language: id
+  palette:
+    - media: "(prefers-color-scheme: light)"
+      scheme: default
+      primary: teal
+      accent: amber
+      toggle:
+        icon: material/brightness-7
+        name: Mode gelap
+    - media: "(prefers-color-scheme: dark)"
+      scheme: slate
+      primary: teal
+      accent: amber
+      toggle:
+        icon: material/brightness-4
+        name: Mode terang
+  features:
+    - navigation.top
+    - navigation.sections
+    - navigation.expand
+    - navigation.tracking
+    - search.suggest
+    - search.highlight
+    - content.code.copy
+    - content.action.edit
+
+markdown_extensions:
+  - admonition
+  - attr_list
+  - def_list
+  - tables
+  - toc:
+      permalink: true
+      # Pakai slugify ala GitHub supaya anchor situs sama persis dengan GitHub.
+      slugify: !!python/name:slugify.github_slugify
+  - pymdownx.details
+  - pymdownx.superfences
+  - pymdownx.highlight:
+      anchor_linenums: true
+
+plugins:
+  - search
+
+nav:
+  - Beranda: index.md
+  - Indeks Prompt: 01-prompt-identifikasi-ai.md
+  - Checklist Verifikasi: 02-verifikasi.md
+  - Prompt Status AI: 03-status-ai.md
+  - Prompt Pemilik/Pengelola: 04-pemilik-pengelola.md
+  - Prompt Model dan Vendor: 05-model-vendor.md
+  - Prompt Sumber Informasi: 06-sumber-informasi.md
+  - Batas Prompt: 07-batas-prompt.md
+  - Pola Manipulasi dan Evaluasi: 08-pola-prompt-dan-evaluasi.md
+  - Lembar Kerja Evaluasi: 09-lembar-kerja-evaluasi.md
+  - Glosarium: 10-glosarium.md
+  - Panduan per Platform: 11-panduan-per-platform.md
+  - Privasi dan Retensi Data: 12-privasi-dan-retensi-data.md
+  - Menduga vs Membuktikan: 13-menduga-vs-membuktikan.md
+  - Template: perkakas/README.md
+  - Contoh Catatan Lengkap: perkakas/contoh-catatan-lengkap.md
+
+extra:
+  generator: false
+  social:
+    - icon: fontawesome/brands/github
+      link: https://github.com/ringga-dev/pancing-bot

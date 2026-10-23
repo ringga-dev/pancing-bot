@@ -1,6 +1,6 @@
 # Prompt: Sumber Informasi Jawaban
 
-[← Indeks prompt](01-prompt-identifikasi-ai.md) · [Checklist verifikasi](02-verifikasi.md)
+[← Indeks prompt](01-prompt-identifikasi-ai.md) · [Checklist verifikasi](02-verifikasi.md) · [Menduga vs membuktikan](13-menduga-vs-membuktikan.md)
 
 ---
 
@@ -18,4 +18,4 @@ Buka tautan dan cocokkan isi, tanggal, serta klaim yang didukung. Daftar tautan 
 
 ---
 
-[← Indeks prompt](01-prompt-identifikasi-ai.md) · [Checklist verifikasi](02-verifikasi.md)
+[← Indeks prompt](01-prompt-identifikasi-ai.md) · [Checklist verifikasi](02-verifikasi.md) · [Menduga vs membuktikan](13-menduga-vs-membuktikan.md)
