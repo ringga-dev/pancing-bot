@@ -14,9 +14,10 @@ Repositori ini berisi **panduan dan prompt** untuk meminta transparansi dari aku
 2. Tanyakan satu kali dengan sopan. Jika perlu, kirim paling banyak satu pertanyaan lanjutan; patuhi aturan platform dan hormati jika akun tidak menjawab.
 3. Cocokkan jawaban dengan [Checklist Verifikasi](02-verifikasi.md), terutama tautan resmi dan tanggalnya.
 4. Pisahkan klaim tentang operasi akun dari klaim tentang model yang menjawab.
-5. Catat hasilnya sebagai **terverifikasi**, **belum terverifikasi**, atau **tidak diketahui** — dan baca [Menduga vs Membuktikan](13-menduga-vs-membuktikan.md) sebelum menyebut hasil itu sebagai bukti.
-6. Jika Anda sudah punya beberapa sinyal, gabungkan menjadi satu kesimpulan dengan [Rubrik Penilaian](14-rubrik-penilaian.md).
-7. Simpan buktinya sebelum hilang — lihat [Pelestarian Bukti](17-pelestarian-bukti.md).
+5. Periksa label AI yang dipasang platformnya sendiri — lihat [Label AI di Level Platform](19-label-ai-platform.md).
+6. Catat hasilnya sebagai **terverifikasi**, **belum terverifikasi**, atau **tidak diketahui** — dan baca [Menduga vs Membuktikan](13-menduga-vs-membuktikan.md) sebelum menyebut hasil itu sebagai bukti.
+7. Jika Anda sudah punya beberapa sinyal, gabungkan menjadi satu kesimpulan dengan [Rubrik Penilaian](14-rubrik-penilaian.md).
+8. Simpan buktinya sebelum hilang — lihat [Pelestarian Bukti](17-pelestarian-bukti.md).
 
 ## Pilih fungsi prompt
 
@@ -38,6 +39,8 @@ Repositori ini berisi **panduan dan prompt** untuk meminta transparansi dari aku
 - Ingin contoh jalan-periksa dari awal sampai selesai? → [Studi Kasus](16-studi-kasus.md)
 - Ingin bukti tidak hilang sebelum sempat diperiksa? → [Pelestarian Bukti](17-pelestarian-bukti.md)
 - Diduga ada akun yang sengaja menyebar informasi salah atau mengarahkan opini? → [Informasi Salah dan Perilaku Koordinasi](18-informasi-salah-dan-koordinasi.md)
+- Cari tanda AI yang dipasang platformnya sendiri? → [Label AI di Level Platform](19-label-ai-platform.md)
+- Ingin tahu dasar riset di balik cara mendeteksi? → [Penelitian dan Indikator](20-penelitian-dan-indikator.md)
 
 ## Format catatan yang disarankan
 
@@ -80,6 +83,8 @@ Untuk membedakan apa yang benar-benar bisa dibuktikan dan apa yang hanya bisa di
 | [16](16-studi-kasus.md) | Studi kasus jalan-periksa |
 | [17](17-pelestarian-bukti.md) | Pelestarian bukti |
 | [18](18-informasi-salah-dan-koordinasi.md) | Informasi salah dan koordinasi |
+| [19](19-label-ai-platform.md) | Label AI di level platform |
+| [20](20-penelitian-dan-indikator.md) | Penelitian dan indikator |
 | [Template](perkakas/README.md) | Berkas siap isi |
 
 ## Lisensi

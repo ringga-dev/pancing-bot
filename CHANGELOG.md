@@ -13,11 +13,15 @@ Versi di sini merujuk pada **isi dokumen**, bukan perangkat lunak, karena reposi
 - `docs/16-studi-kasus.md` — contoh jalan-periksa lengkap dari pertanyaan sampai kesimpulan.
 - `docs/17-pelestarian-bukti.md` — cara menyimpan dan membuktikan temuan sebelum buktinya hilang.
 - `docs/18-informasi-salah-dan-koordinasi.md` — cara memeriksa informasi salah dan perilaku koordinasi, termasuk delapan sinyal K-1 sampai K-8.
+- `docs/19-label-ai-platform.md` — label AI yang dipasang platform (AI Info, AI-generated profile), cara memeriksanya, dan batasnya.
+- `docs/20-penelitian-dan-indikator.md` — temuan riset dan indikator lapangan, termasuk batas kemampuan manusia membedakan akun AI.
 
 ### Diubah
 
 - Penekanan bergeser: pernyataan akun diperlakukan sebagai sinyal terlemah, dan verifikasi ke sumber primer naik menjadi langkah utama.
-- Navigasi dan indeks diperbarui untuk dokumen 14–18.
+- Pemeriksaan label platform ditambahkan sebagai langkah tetap dalam alur pemeriksaan.
+- Rubrik Penilaian mendapat kelas artefak teknis (T-1 sampai T-4) yang lebih kuat dari sinyal perilaku.
+- Navigasi dan indeks diperbarui untuk dokumen 14–20.
 - Aksi GitHub dinaikkan ke versi terbaru (checkout v7, setup-python v6, setup-node v7, upload-pages-artifact v5, deploy-pages v5).
 
 ## [0.1.0] - 2026-10-23

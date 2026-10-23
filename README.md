@@ -15,6 +15,7 @@ Panduan dan prompt untuk meminta transparansi dari akun atau layanan di media so
 | Mengisi hasil pemeriksaan | [Template siap isi](docs/perkakas/README.md) |
 | Istilah teknis yang dipakai | [Glosarium](docs/10-glosarium.md) |
 | Diduga ada narasi yang sengaja menyebar atau diarahkan | [Informasi Salah dan Koordinasi](docs/18-informasi-salah-dan-koordinasi.md) |
+| Cek tanda AI dari platformnya sendiri | [Label AI di Platform](docs/19-label-ai-platform.md) |
 
 ## Situs dokumentasi
 

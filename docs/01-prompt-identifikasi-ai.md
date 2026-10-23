@@ -27,6 +27,8 @@ Gunakan dokumen terpisah sesuai informasi yang ingin diketahui. Ajukan satu pert
 4. [Menduga vs membuktikan: batas apa yang bisa dibuktikan](13-menduga-vs-membuktikan.md)
 5. [Template siap isi untuk mencatat hasil](perkakas/README.md)
 6. [Informasi salah dan perilaku koordinasi](18-informasi-salah-dan-koordinasi.md)
+7. [Label AI di level platform](19-label-ai-platform.md)
+8. [Penelitian dan indikator deteksi](20-penelitian-dan-indikator.md)
 
 ## Alur setelah mendapat jawaban
 
