@@ -1,0 +1,8 @@
+blank_issues_enabled: false
+contact_links:
+  - name: Panduan berkontribusi
+    url: https://github.com/ringga-dev/pancing-bot/blob/main/CONTRIBUTING.md
+    about: Baca dulu sebelum membuka isu atau mengirim pull request.
+  - name: Checklist verifikasi
+    url: https://github.com/ringga-dev/pancing-bot/blob/main/docs/02-verifikasi.md
+    about: Jika Anda ingin melaporkan klaim sebuah akun, mulailah dari daftar pemeriksaan ini.

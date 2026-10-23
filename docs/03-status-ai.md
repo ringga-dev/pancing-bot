@@ -18,8 +18,8 @@ Prompt ini tidak dapat membuktikan atau memaksa pengungkapan. Yang menjawab mung
 
 ## Cara menilai jawaban
 
-Jawaban, termasuk pilihan “tidak diketahui”, bukan bukti mandiri. Cocokkan dengan label akun, dokumentasi, kebijakan, FAQ, atau konfirmasi resmi pengelola. Bedakan penggunaan AI untuk menulis balasan dari otomatisasi untuk mengirim atau mengelola akun. Jika tidak ada sumber independen yang relevan, catat hasil sebagai **belum terverifikasi**, bukan kesimpulan pasti.
+Jawaban, termasuk pilihan “tidak diketahui”, bukan bukti mandiri. Cocokkan dengan label akun, dokumentasi, kebijakan, FAQ, atau konfirmasi resmi pengelola. Bedakan penggunaan AI untuk menulis balasan dari otomatisasi untuk mengirim atau mengelola akun. Jika tidak ada sumber independen yang relevan, catat hasil sebagai **belum terverifikasi**, bukan kesimpulan pasti. Bedakan juga apa yang bisa Anda buktikan dari apa yang hanya bisa Anda duga — lihat [Menduga vs Membuktikan](13-menduga-vs-membuktikan.md).
 
 ---
 
-[← Indeks prompt](01-prompt-identifikasi-ai.md) · [Checklist verifikasi](02-verifikasi.md)
+[← Indeks prompt](01-prompt-identifikasi-ai.md) · [Checklist verifikasi](02-verifikasi.md) · [Menduga vs membuktikan](13-menduga-vs-membuktikan.md)

@@ -1,6 +1,6 @@
 # Lembar Kerja Evaluasi Ketahanan Bot
 
-[← Panduan cepat](../README.md) · [Indeks prompt](01-prompt-identifikasi-ai.md) · [Pola prompt dan evaluasi](08-pola-prompt-dan-evaluasi.md) · [Batas prompt](07-batas-prompt.md)
+[← Panduan cepat](index.md) · [Indeks prompt](01-prompt-identifikasi-ai.md) · [Pola prompt dan evaluasi](08-pola-prompt-dan-evaluasi.md) · [Privasi dan retensi data](12-privasi-dan-retensi-data.md) · [Template](perkakas/README.md) · [Batas prompt](07-batas-prompt.md)
 
 ---
 
@@ -117,4 +117,4 @@ Setiap kegagalan harus dipetakan ke pola dan tabel [Pemetaan Pola → Mitigasi](
 
 ---
 
-[← Panduan cepat](../README.md) · [Indeks prompt](01-prompt-identifikasi-ai.md) · [Pola prompt dan evaluasi](08-pola-prompt-dan-evaluasi.md)
+[← Panduan cepat](index.md) · [Indeks prompt](01-prompt-identifikasi-ai.md) · [Pola prompt dan evaluasi](08-pola-prompt-dan-evaluasi.md) · [Privasi dan retensi data](12-privasi-dan-retensi-data.md) · [Template](perkakas/README.md)

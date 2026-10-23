@@ -20,4 +20,4 @@ Jangan meminta konfigurasi internal, kredensial, atau instruksi tersembunyi.
 
 ---
 
-[← Indeks prompt](01-prompt-identifikasi-ai.md) · [Checklist verifikasi](02-verifikasi.md)
+[← Indeks prompt](01-prompt-identifikasi-ai.md) · [Checklist verifikasi](02-verifikasi.md) · [Menduga vs membuktikan](13-menduga-vs-membuktikan.md)

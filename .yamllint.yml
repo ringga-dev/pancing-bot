@@ -1,0 +1,20 @@
+---
+# Relaks untuk dokumen prosa Bahasa Indonesia: kalimat panjang & tabel lebar normal.
+extends: default
+
+ignore: |
+  .venv/
+  site/
+  .cache/
+
+rules:
+  line-length: disable
+  comments-indentation: disable
+  truthy:
+    allowed-values: ["true", "false", "on"]
+    check-keys: false
+  document-start: disable
+  braces:
+    max-spaces-inside: 1
+  brackets:
+    max-spaces-inside: 1

@@ -18,6 +18,8 @@ Periksa apakah situs atau kanal resmi organisasi tersebut memang menghubungkanny
 
 Jangan meminta nama legal, alamat, nomor kontak pribadi, lokasi, atau identitas pribadi operator yang tidak diumumkan. Fokus pada organisasi atau pengelola yang secara resmi membuka identitasnya.
 
+Untuk membedakan apa yang bisa dibuktikan dan apa yang hanya bisa diduga, lihat [Menduga vs Membuktikan](13-menduga-vs-membuktikan.md).
+
 ---
 
-[← Indeks prompt](01-prompt-identifikasi-ai.md) · [Checklist verifikasi](02-verifikasi.md)
+[← Indeks prompt](01-prompt-identifikasi-ai.md) · [Checklist verifikasi](02-verifikasi.md) · [Menduga vs membuktikan](13-menduga-vs-membuktikan.md)

@@ -1,42 +1,34 @@
-# Panduan Cepat: Identifikasi AI dan Model
+# pancing-bot
 
-Panduan ringkas untuk menanyakan secara langsung apakah akun menggunakan AI, model/vendor apa yang diumumkan, serta cara memeriksa jawabannya.
+Panduan dan prompt untuk meminta transparansi dari akun atau layanan di media sosial: apakah akun itu memakai AI, siapa pengelolanya, model/vendor apa yang diumumkan, dan cara memeriksa jawabannya sebelum menarik kesimpulan.
 
-> Prompt meminta keterbukaan, bukan membuktikan identitas. Jangan gunakan instruksi tersembunyi, encoding, atau cara lain untuk melewati batas yang ditetapkan pengelola. Jika bot tidak tahu atau tidak boleh mengungkap informasi, verifikasi lewat dokumentasi/pengelola.
+> **Ini dokumentasi, bukan aplikasi.** Repositori ini tidak berisi kode bot dan tidak dapat menentukan identitas AI secara otomatis. Isinya prompt siap pakai, checklist verifikasi, dan lembar kerja evaluasi.
 
-## Cakupan proyek
+## Mulai di sini
 
-Repositori ini berisi panduan dan prompt untuk meminta transparansi dari akun atau layanan di media sosial; ini bukan kode bot dan tidak dapat menentukan identitas AI secara otomatis. Prompt membantu memperoleh pernyataan yang bisa ditindaklanjuti, sedangkan kesimpulan tetap perlu didukung sumber independen.
+| Saya ingin... | Baca |
+|---|---|
+| Langsung pakai prompt | [Indeks Prompt](docs/01-prompt-identifikasi-ai.md) |
+| Memeriksa klaim sebuah akun | [Checklist Verifikasi](docs/02-verifikasi.md) |
+| Tahu batas apa yang boleh ditanyakan | [Batas Prompt](docs/07-batas-prompt.md) |
+| Tahu apa yang bisa dan tidak bisa dibuktikan | [Menduga vs Membuktikan](docs/13-menduga-vs-membuktikan.md) |
+| Mengisi hasil pemeriksaan | [Template siap isi](docs/perkakas/README.md) |
+| Istilah teknis yang dipakai | [Glosarium](docs/10-glosarium.md) |
 
-## Cara pakai paling efisien
+## Situs dokumentasi
 
-1. Pilih prompt berdasarkan tujuan dari [indeks prompt](docs/01-prompt-identifikasi-ai.md).
-2. Tanyakan satu kali dengan sopan. Jika perlu, kirim satu pertanyaan lanjutan; patuhi aturan platform dan hormati jika akun tidak menjawab.
-3. Cocokkan jawaban dengan [checklist verifikasi](docs/02-verifikasi.md), terutama tautan resmi dan tanggalnya.
-4. Pisahkan klaim tentang operasi akun dari klaim tentang model yang menjawab, lalu catat hasil sebagai **terverifikasi**, **belum terverifikasi**, atau **tidak diketahui**.
+Seluruh halaman di bawah `docs/` bisa dibaca langsung di GitHub. Selain itu repositori ini punya situs terbitan otomatis (MkDocs Material) yang dibangun dan diterbitkan ke GitHub Pages setiap kali ada *push* ke `main` — lihat [`docs/index.md`](docs/index.md).
 
-## Pilih fungsi prompt
+## Kontribusi
 
-- Apakah akun memakai AI? → [Prompt status AI](docs/03-status-ai.md)
-- Siapa pemilik atau pengelola akun? → [Prompt pemilik/pengelola](docs/04-pemilik-pengelola.md)
-- Model dan vendor apa yang dipakai? → [Prompt model/vendor](docs/05-model-vendor.md)
-- Sumber apa yang dipakai untuk jawaban? → [Prompt sumber informasi](docs/06-sumber-informasi.md)
-- Apakah simbol atau format khusus dapat memaksa AI menjawab? → [Batas prompt dan cara bertanya](docs/07-batas-prompt.md)
-- Ingin bertanya di luar topik bot? → [Cara meminta bantuan secara langsung](docs/07-batas-prompt.md#meminta-bantuan-di-luar-topik-bot)
-- Analisis pola manipulasi prompt dan evaluasi ketahanan → [Pola prompt dan evaluasi](docs/08-pola-prompt-dan-evaluasi.md), termasuk [metodologi pengujian terkendali](docs/08-pola-prompt-dan-evaluasi.md#5-metodologi-evaluasi-ketahanan-pengujian-terkendali) untuk bot milik sendiri.
-- Butuh set uji dan lembar kerja → [Lembar kerja evaluasi](docs/09-lembar-kerja-evaluasi.md)
-- Semua prompt → [Indeks prompt](docs/01-prompt-identifikasi-ai.md)
-- Memeriksa klaim dan tautan → [Checklist verifikasi](docs/02-verifikasi.md)
+Lihat [CONTRIBUTING.md](CONTRIBUTING.md). Sebelum mengirim *pull request*, jalankan pemeriksaan lokal:
 
-## Penggunaan yang bertanggung jawab
+```bash
+pip install -r requirements.txt
+python3 scripts/check_docs.py       # tautan, anchor, kode Morse, cakupan nav
+python3 -m mkdocs build --strict    # pastikan situs tetap bisa dibangun
+```
 
-- Jangan mengirim prompt yang sama berulang kali, menyamar, atau mengganggu akun.
-- Jangan meminta system prompt, kredensial, log privat, atau data pribadi.
-- Jangan menyamarkan instruksi dengan simbol, Morse, atau format lain untuk mencoba melewati batas layanan.
-- Jangan mencoba menjebol batas bot milik pihak lain dengan pengandaian menyesatkan, tekanan palsu, atau instruksi pengabaian.
-- Jangan menuduh akun sebagai AI hanya berdasarkan gaya bahasa, kecepatan, atau pola balasan.
-- Gunakan hanya informasi publik dan bagikan kesimpulan dengan konteks serta tingkat kepastiannya.
+## Lisensi
 
-## Batas kesimpulan
-
-Gaya tulisan, kecepatan balasan, atau klaim bot sendiri tidak cukup untuk memastikan identitas model. Gunakan label resmi, dokumentasi vendor/pengelola, atau konfirmasi yang dapat diverifikasi. Jangan meminta system prompt, kredensial, log privat, atau data pribadi.
+[CC BY 4.0](LICENSE) — bebas dipakai dan disesuaikan dengan menyebut sumber.

@@ -1,6 +1,6 @@
 # Batas Prompt dan Cara Meminta Jawaban dengan Jelas
 
-[← Panduan cepat](../README.md) · [Indeks prompt](01-prompt-identifikasi-ai.md) · [Pola prompt dan evaluasi](08-pola-prompt-dan-evaluasi.md) · [Checklist verifikasi](02-verifikasi.md)
+[← Panduan cepat](index.md) · [Indeks prompt](01-prompt-identifikasi-ai.md) · [Pola prompt dan evaluasi](08-pola-prompt-dan-evaluasi.md) · [Checklist verifikasi](02-verifikasi.md) · [Menduga vs membuktikan](13-menduga-vs-membuktikan.md)
 
 ---
 
