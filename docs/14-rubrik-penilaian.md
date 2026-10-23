@@ -37,6 +37,23 @@ Beri 0 jika tidak ada data, 1 jika lemah, 2 jika jelas, 3 jika sangat jelas dan 
 
 **Bila akun diduga menyebarkan narasi**, tambahkan delapan sinyal koordinasi K-1 sampai K-8 dari [Informasi Salah dan Perilaku Koordinasi §3](18-informasi-salah-dan-koordinasi.md#3-sinyal-koordinasi). Sinyal itu menilai pola sekelompok akun, bukan satu akun.
 
+### 2.1 Artefak Teknis — Kelas Terpisah, Lebih Kuat dari Sinyal Perilaku
+
+Semua sinyal di atas adalah **perilaku**. Ada kelas bukti lain yang lebih kuat karena bukan sesuatu yang akun *katakan*, melainkan sesuatu yang **bocor dari sistemnya sendiri**. Artefak ini tidak dimasukkan ke dalam skor, tetapi dicatat terpisah karena bobotnya melampaui skor perilaku mana pun.
+
+| Kode | Artefak | Apa yang ditunjukkannya |
+|---|---|---|
+| T-1 | Pesan galat API yang terbit ke publik | Ada panggilan API model bahasa yang dijalankan dari infrastruktur akun itu. |
+| T-2 | Teks respons bawaan sistem yang terkirim tanpa disadari | Otomatisasi gagal menyaring keluarannya sendiri. |
+| T-3 | Penyebutan nama model atau vendor yang tidak mungkin diketahui akun | Klaim konfigurasi; hampir selalu tidak berdasar, tetapi inkonsekuensinya bisa dibandingkan dengan T-1. |
+| T-4 | Metadata berkas unggahan yang menunjukkan alat pembuat | Perlu pemeriksaan berkas; tidak selalu tersedia. |
+
+**Aturan pakai:** satu artefak T-1 atau T-2 sudah lebih kuat daripada skor perilaku berapa pun. Tetapi artefak tetap harus diperiksa asalnya — pesan galat bisa disunting atau dibuat palsu, dan tangkapan layar bisa dihasilkan untuk tujuan tertentu. Bandingkan dengan sumber lain bila memungkinkan. Lihat [Pelestarian Bukti §3](17-pelestarian-bukti.md#3-tangkapan-layar-permalink-dan-nilai-cek) untuk cara menyimpannya agar bisa diperiksa ulang.
+
+### 2.2 Kapan Skor Tidak Boleh Dipakai
+
+Skor dari Bagian A dan B hanya berlaku bila Anda punya **data yang bisa diukur**. Bila sebagian besar sinyal bernilai 0 karena data tidak tersedia, jangan melaporkan skornya sebagai temuan — laporkan bahwa pemeriksaan belum selesai. Skor yang dibangun dari kesan, bukan data, justru menjadi alat yang menyesatkan.
+
 ## 3. Bagian B — Sinyal Arah Manusia
 
 Bagian ini **mengurangi** skor. Isi hanya jika ada datanya.
