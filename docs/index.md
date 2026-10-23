@@ -15,6 +15,8 @@ Repositori ini berisi **panduan dan prompt** untuk meminta transparansi dari aku
 3. Cocokkan jawaban dengan [Checklist Verifikasi](02-verifikasi.md), terutama tautan resmi dan tanggalnya.
 4. Pisahkan klaim tentang operasi akun dari klaim tentang model yang menjawab.
 5. Catat hasilnya sebagai **terverifikasi**, **belum terverifikasi**, atau **tidak diketahui** — dan baca [Menduga vs Membuktikan](13-menduga-vs-membuktikan.md) sebelum menyebut hasil itu sebagai bukti.
+6. Jika Anda sudah punya beberapa sinyal, gabungkan menjadi satu kesimpulan dengan [Rubrik Penilaian](14-rubrik-penilaian.md).
+7. Simpan buktinya sebelum hilang — lihat [Pelestarian Bukti](17-pelestarian-bukti.md).
 
 ## Pilih fungsi prompt
 
@@ -31,6 +33,11 @@ Repositori ini berisi **panduan dan prompt** untuk meminta transparansi dari aku
 - Istilah teknis yang dipakai di dokumen ini → [Glosarium](10-glosarium.md)
 - Aturan dan batas bertanya di tiap platform → [Panduan per platform](11-panduan-per-platform.md)
 - Menyimpan hasil pemeriksaan dengan aman → [Privasi dan retensi data](12-privasi-dan-retensi-data.md)
+- Mau mengubah sinyal jadi satu kesimpulan? → [Rubrik Penilaian](14-rubrik-penilaian.md)
+- Dapat jawaban yang mengelak atau menolak? → [Menangani Jawaban](15-penanganan-jawaban.md)
+- Ingin contoh jalan-periksa dari awal sampai selesai? → [Studi Kasus](16-studi-kasus.md)
+- Ingin bukti tidak hilang sebelum sempat diperiksa? → [Pelestarian Bukti](17-pelestarian-bukti.md)
+- Diduga ada akun yang sengaja menyebar informasi salah atau mengarahkan opini? → [Informasi Salah dan Perilaku Koordinasi](18-informasi-salah-dan-koordinasi.md)
 
 ## Format catatan yang disarankan
 
@@ -68,6 +75,11 @@ Untuk membedakan apa yang benar-benar bisa dibuktikan dan apa yang hanya bisa di
 | [11](11-panduan-per-platform.md) | Panduan per platform |
 | [12](12-privasi-dan-retensi-data.md) | Privasi dan retensi data |
 | [13](13-menduga-vs-membuktikan.md) | Menduga vs membuktikan |
+| [14](14-rubrik-penilaian.md) | Rubrik penilaian sinyal |
+| [15](15-penanganan-jawaban.md) | Menangani jawaban akun |
+| [16](16-studi-kasus.md) | Studi kasus jalan-periksa |
+| [17](17-pelestarian-bukti.md) | Pelestarian bukti |
+| [18](18-informasi-salah-dan-koordinasi.md) | Informasi salah dan koordinasi |
 | [Template](perkakas/README.md) | Berkas siap isi |
 
 ## Lisensi

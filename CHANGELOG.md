@@ -6,6 +6,20 @@ Versi di sini merujuk pada **isi dokumen**, bukan perangkat lunak, karena reposi
 
 ## [Unreleased]
 
+### Ditambahkan
+
+- `docs/14-rubrik-penilaian.md` — rubrik berbobot untuk mengubah sinyal perilaku menjadi skor dan tingkat kepastian.
+- `docs/15-penanganan-jawaban.md` — delapan jenis jawaban akun, artinya, dan langkah berikutnya.
+- `docs/16-studi-kasus.md` — contoh jalan-periksa lengkap dari pertanyaan sampai kesimpulan.
+- `docs/17-pelestarian-bukti.md` — cara menyimpan dan membuktikan temuan sebelum buktinya hilang.
+- `docs/18-informasi-salah-dan-koordinasi.md` — cara memeriksa informasi salah dan perilaku koordinasi, termasuk delapan sinyal K-1 sampai K-8.
+
+### Diubah
+
+- Penekanan bergeser: pernyataan akun diperlakukan sebagai sinyal terlemah, dan verifikasi ke sumber primer naik menjadi langkah utama.
+- Navigasi dan indeks diperbarui untuk dokumen 14–18.
+- Aksi GitHub dinaikkan ke versi terbaru (checkout v7, setup-python v6, setup-node v7, upload-pages-artifact v5, deploy-pages v5).
+
 ## [0.1.0] - 2026-10-23
 
 Rilis pertama: panduan identifikasi akun AI dan evaluasi ketahanan bot.

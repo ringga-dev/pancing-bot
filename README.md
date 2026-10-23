@@ -14,6 +14,7 @@ Panduan dan prompt untuk meminta transparansi dari akun atau layanan di media so
 | Tahu apa yang bisa dan tidak bisa dibuktikan | [Menduga vs Membuktikan](docs/13-menduga-vs-membuktikan.md) |
 | Mengisi hasil pemeriksaan | [Template siap isi](docs/perkakas/README.md) |
 | Istilah teknis yang dipakai | [Glosarium](docs/10-glosarium.md) |
+| Diduga ada narasi yang sengaja menyebar atau diarahkan | [Informasi Salah dan Koordinasi](docs/18-informasi-salah-dan-koordinasi.md) |
 
 ## Situs dokumentasi
 

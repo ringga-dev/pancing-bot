@@ -26,6 +26,15 @@ Gunakan dokumen terpisah sesuai informasi yang ingin diketahui. Ajukan satu pert
 3. [Privasi dan retensi data untuk hasil pemeriksaan](12-privasi-dan-retensi-data.md)
 4. [Menduga vs membuktikan: batas apa yang bisa dibuktikan](13-menduga-vs-membuktikan.md)
 5. [Template siap isi untuk mencatat hasil](perkakas/README.md)
+6. [Informasi salah dan perilaku koordinasi](18-informasi-salah-dan-koordinasi.md)
+
+## Alur setelah mendapat jawaban
+
+Setelah Anda bertanya, tiga dokumen ini menyambung sampai ke kesimpulan:
+
+1. [Rubrik Penilaian](14-rubrik-penilaian.md) — mengubah sinyal menjadi skor dan tingkat kepastian.
+2. [Menangani Jawaban](15-penanganan-jawaban.md) — membaca delapan jenis jawaban yang mungkin Anda terima.
+3. [Studi Kasus](16-studi-kasus.md) — contoh lengkap dari pertanyaan sampai kesimpulan.
 
 ## Prompt singkat serbaguna
 
